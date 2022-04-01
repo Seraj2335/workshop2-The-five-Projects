@@ -4,3 +4,6 @@
 [submodule "vertical-slider"]
 	path = vertical-slider
 	url = https://github.com/Seraj2335/vertical-slider
+[submodule "Live-User-Filter"]
+	path = Live-User-Filter
+	url = https://github.com/Seraj2335/Live-User-Filter
