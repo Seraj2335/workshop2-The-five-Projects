@@ -10,3 +10,6 @@
 [submodule "Content-Placeholder"]
 	path = Content-Placeholder
 	url = https://github.com/Seraj2335/Content-Placeholder
+[submodule "randomchoice-picker"]
+	path = randomchoice-picker
+	url = https://github.com/Seraj2335/randomchoice-picker
