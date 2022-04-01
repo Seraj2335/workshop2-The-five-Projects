@@ -1,3 +1,6 @@
 [submodule "Blurry-Loading"]
 	path = Blurry-Loading
 	url = https://github.com/Seraj2335/Blurry-Loading
+[submodule "vertical-slider"]
+	path = vertical-slider
+	url = https://github.com/Seraj2335/vertical-slider
