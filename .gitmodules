@@ -7,3 +7,6 @@
 [submodule "Live-User-Filter"]
 	path = Live-User-Filter
 	url = https://github.com/Seraj2335/Live-User-Filter
+[submodule "Content-Placeholder"]
+	path = Content-Placeholder
+	url = https://github.com/Seraj2335/Content-Placeholder
